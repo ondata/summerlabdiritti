@@ -23,9 +23,11 @@ A seguire un piccolo riepilogo di alcune delle cose fatte in quelle ore, per le 
 
 I dati sono stati scaricati dal sito ISTAT dedicato ai dati: <http://dati.istat.it/>.
 
-Qui un **video** che mostra **come scaricarli**: <https://youtu.be/FeDz44YdM_s>.
+📹 Qui un **video** che mostra **come scaricarli**: <https://youtu.be/FeDz44YdM_s>.
 
-Una volta scaricati, i **dati** vanno "**puliti**": rimosse righe di intestazioni inutili, colonne vuote, rimosse righe descrittive a fondo tabella, ecc. Qui un **video** che mostra come fare: <http://youtu.be/4I1mFVYSgW8?hd=1>
+Una volta scaricati, i **dati** vanno "**puliti**": rimosse righe di intestazioni inutili, colonne vuote, rimosse righe descrittive a fondo tabella, ecc.
+
+📹 Qui un **video** che mostra come fare: <http://youtu.be/4I1mFVYSgW8?hd=1>
 
 Una copia dei dati è disponibile qui <https://docs.google.com/spreadsheets/d/1ltTQ0GjrceSW-F1GdkVBnZ5gMXXA3l3mMsWx4S2pYjk/edit?usp=sharing>.
 
@@ -33,7 +35,7 @@ Una copia dei dati è disponibile qui <https://docs.google.com/spreadsheets/d/1l
 
 Una delle visualizzazioni sviluppate durante il laboratorio è un grafico *dot plot*, come quello sottostante. È un tipo di grafico che mostra, al variare di valori per una o più categorie, uno più punti lungo una linea (vedere esempio sotto).
 
-Qui un video su come crearlo: <http://youtu.be/BB05kXjaMTo?hd=1>
+📹 Qui un video su come crearlo: <http://youtu.be/BB05kXjaMTo?hd=1>
 
 [![](./imgs/dotplot.png)](https://www.datawrapper.de/_/AgTpz/)
 
@@ -42,7 +44,7 @@ Qui un video su come crearlo: <http://youtu.be/BB05kXjaMTo?hd=1>
 Una mappa coropletica, è una rappresentazione in cui a delle aree (le regioni, gli stati, ecc.) sono assegnati dei colori in relazione a una data grandezza.<br>
 Come quella sottostante, in cui le variazioni di colore esprimono la variazione del tasso di disoccupazione totale, nelle regioni di Italia.
 
-Qui un video su come crearla: <http://youtu.be/ZgHZyDrtDwc?hd=1>
+📹 Qui un video su come crearla: <http://youtu.be/ZgHZyDrtDwc?hd=1>
 
 [![](./imgs/mappacoropletica.png)](https://www.datawrapper.de/_/CzImD/)
 
@@ -57,7 +59,7 @@ Il sito [Humanitarian Data Exchange](https://data.humdata.org/) (HDX) è una pia
 
 Le tabelle pivot sono uno degli strumenti più comodi ed efficienti, per avere restituito una sintesi dei dati a disposizione. Sotto ad esempio, è possibile avere un quadro delle morti per luogo di incidente, suddiviso in base al grado di verifica della fonte della notizia.
 
-Qui un video su come crearla: <https://youtu.be/mZi5pKyU_js>
+📹 Qui un video su come crearla: <https://youtu.be/mZi5pKyU_js>
 
 [![](./imgs/pivot.png)](https://docs.google.com/spreadsheets/d/1G3P4BT8lZ6-nSQ5yxyyfEy6Z4M9RnYAGoQDOdMF1D9I/edit#gid=747439266)
 
@@ -69,7 +71,7 @@ La tabella contiene le coordinate degli incidenti, nelle colonne 1) `#geo+lat` e
 
 Ci sono quindi tutti gli elementi per rappresentare in una mappa i luoghi in cui sono avvenuti e vederne l'evoluzione nel tempo.
 
-Qui un video su come crearla: <http://youtu.be/YX045JEHf5w?hd=1>
+📹 Qui un video su come crearla: <http://youtu.be/YX045JEHf5w?hd=1>
 
 [![](./imgs/flourish.png)](https://public.flourish.studio/visualisation/545370/)
 
@@ -77,6 +79,6 @@ Qui un video su come crearla: <http://youtu.be/YX045JEHf5w?hd=1>
 
 Vittozia Bulzomì - una delle resposabili del SummerLab - ci ha inviato il giorno dopo la fine del nostro momento didaticco, questo link a un report sulle leggi sull'orientamento sessuale nel mondo (ci sono luoghi in cui l'omosessualità è ad esempio un reato): <https://ilga.org/maps-sexual-orientation-laws>.
 
-Ecco una video guida su come creare una mappa per visualizzare il fenomeno: <https://youtu.be/_6oOu_xnutQ>
+📹 Ecco una video guida su come creare una mappa per visualizzare il fenomeno: <https://youtu.be/_6oOu_xnutQ>
 
 Questi i dati utilizzati: https://docs.google.com/spreadsheets/d/1LIxyRF_F3h7BxLTTU7oFEBIgMUheKzTw2Sr4KFLQTw8/edit#gid=0
