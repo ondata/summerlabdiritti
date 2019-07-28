@@ -15,6 +15,8 @@ Siamo stati invitati al [**Summer Lab sui diritti**](http://www.numeripari.org/2
 
 A seguire un piccolo riepilogo di alcune delle cose fatte in quelle ore, per le quali sono stati creati dei piccoli **video *tutorial*** (da visualizzare con le casse audio accesse), in modo da replicarle *ex post*.
 
+**Nota** per gli studenti del Lab: per ❓ **dubbi** e ❓ **domande** su quanto sviluppato sotto, per favore **fate una richiesta facendo click [qui]( https://github.com/ondata/summerlabdiritti/issues/new)** (si chiamano *issue*); in questo modo domande e risposte verranno messe a fattor comune (è una specie di forum).
+
 # La disoccupazione femminile nella fascia di età 15-24 anni nel 2018
 
 ## Dati
